@@ -23,12 +23,11 @@ Watch the demo here https://youtu.be/JQfMOpxusEY
 
 
 How to Run
+
 Download or clone this repository.
+
 Install Python and the required dependencies.
-Run pip install -r requirements.txt.
-Run python main.py.
-Allow access to your webcam.
-Install Python and the required dependencies.
+
 Run pip install -r requirements.txt.
 
 Run python main.py.
